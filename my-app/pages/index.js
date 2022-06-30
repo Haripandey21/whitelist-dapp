@@ -155,17 +155,17 @@ export default function Home() {
           </div>
         );
       } else if (loading) {
-        return <button classNameName={styles.button}>Loading...</button>;
+        return <button class={styles.button}>Loading...</button>;
       } else {
         return (
-          <button onClick={addAddressToWhitelist} classNameName={styles.button}>
+          <button onClick={addAddressToWhitelist} class={styles.button}>
             Join the Whitelist
           </button>
         );
       }
     } else {
       return (
-        <button onClick={connectWallet} classNameName={styles.button}>
+        <button onClick={connectWallet} class={styles.button}>
           Connect your wallet
         </button>
       );
