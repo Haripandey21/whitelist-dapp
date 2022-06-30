@@ -150,22 +150,22 @@ export default function Home() {
     if (walletConnected) {
       if (joinedWhitelist) {
         return (
-          <div class={styles.description}>
+          <div className={styles.description}>
             Thanks for joining the Whitelist!
           </div>
         );
       } else if (loading) {
-        return <button class={styles.button}>Loading...</button>;
+        return <button className={styles.button}>Loading...</button>;
       } else {
         return (
-          <button onClick={addAddressToWhitelist} class={styles.button}>
+          <button onClick={addAddressToWhitelist} className={styles.button}>
             Join the Whitelist
           </button>
         );
       }
     } else {
       return (
-        <button onClick={connectWallet} class={styles.button}>
+        <button onClick={connectWallet} className={styles.button}>
           Connect your wallet
         </button>
       );
@@ -238,11 +238,11 @@ export default function Home() {
           </div>
           
           
-          <div class={styles.thanks}>
+          <div className={styles.thanks}>
                  {numberOfWhitelisted} have already joined the Whitelist
                  
           </div>
-          <div class={styles.thanks}>
+          <div className={styles.thanks}>
             {200-numberOfWhitelisted} Slots Remaining
             
           </div>
