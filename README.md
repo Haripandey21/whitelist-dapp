@@ -9,6 +9,18 @@ First, run the development server:
 npm run dev 
 (You need to run "npm install" too sometimes )
 ```
+## " Whitelisting "
+ Whitelist is a list of registered and approved participants that are given exclusive access to contribute to an initial coin offering
+ (ICO) or a presale.Crypto projects can  open whitelist so that they can collect funds for their project by selling their project’s token t
+ o the whitelisted addresses. And later, after deploying the project to the public…that whitelisted addresses can sell their token at a high
+ price to the public.
+ Whitelisting also allows NFT projects to reward early supporters with guaranteed slots for them to mint an NFT (or multiple NFTs 
+ depending on the whitelisting/project rules).
+
+So this whitelisting is for 
+* Raising fund to initial projects
+* Earning source for the investors (whitelisted addresses )
+
 ---------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------
 Join the Whitelist : 
