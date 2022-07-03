@@ -21,6 +21,9 @@ So this whitelisting is for
 * Raising fund to initial projects
 * Earning source for the investors (whitelisted addresses )
 
+track down all whitelisted addresses :--->  
+https://rinkeby.etherscan.io/address/0x6650eB9b069EE68805F2caC7055F8e16162061b1 (made for 200 candidates)
+
 ---------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------
 Join the Whitelist : 
