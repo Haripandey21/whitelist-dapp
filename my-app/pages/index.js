@@ -231,7 +231,7 @@ export default function Home() {
           <p className="mt-3 text-base font-bold text-black-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">The person who arrives first in a place is most likely to get what they want.</p>
           <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div className="rounded-md shadow">
-              <a href="./exploremusic" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"> explore more </a>
+              <a href="https://rinkeby.etherscan.io/address/0x6650eB9b069EE68805F2caC7055F8e16162061b1" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10">Track Whitelisted addresses</a>
             </div>
             
            
