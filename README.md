@@ -55,6 +55,6 @@ transaction approved :
 ----------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/Haripandey21/whitelist-dapp/blob/main/Dapp/images/Screenshot%20(44).png)
 ---------------------------------------------------------------------------------------------------------------------------
-view the 10 whitelisted addresses in https://rinkeby.etherscan.io/address/0xb3291e177f0768B9805b5C4ce5f2877f9Ee2bB2d
+view the 10 whitelisted addresses in https://rinkeby.etherscan.io/address/0x6650eB9b069EE68805F2caC7055F8e16162061b1
 ![](https://github.com/Haripandey21/whitelist-dapp/blob/main/Dapp/images/Screenshot%20(45).png)
 ----------------------------------------------------------------------------------------------------------------------------
